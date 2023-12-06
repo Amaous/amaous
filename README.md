@@ -2,7 +2,7 @@
 #### Curious Software engineer | empathic customer service officer
 ![Curious Software engineer | empathic customer service officer](https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif)
 
-I'm Kindsew from Ethiopia, determined Software engineer, currently pursuing software engineer course @Alx_Africa. Keen to learn and continuously improving myself to advance my career and skills in software engineer and web development.
+I'm Kindsew from Ethiopia, a determined Software engineer, currently pursuing a software engineering course @Alx_Africa. Keen to learn and continuously improve myself to advance my career and skills in software engineering and web development.
 
 Skills: C / PYTHON / JS / HTML / CSS / SQL / Digital Marketing
 

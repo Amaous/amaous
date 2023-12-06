@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Kindsew Shimlash
+#### Curious Software engineer | empathic customer service officer
+![Curious Software engineer | empathic customer service officer](https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif)
 
-<!--
-**Amaous/amaous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kindsew from Ethiopia, determined Software engineer, currently pursuing software engineer course @Alx_Africa. Keen to learn and continuously improving myself to advance my career and skills in software engineer and web development.
 
-Here are some ideas to get you started:
+Skills: C / PYTHON / JS / HTML / CSS / SQL / Digital Marketing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Building Simple shell in C https://github.com/Amaous/simple_shell and work full-time as a Customer service officer at a leading private bank in my country 
+- 🌱 I’m currently learning Software Engineering @alx_Africa 
+- 📫 How to reach me: kingminas628@gmail.com 
+- 😄 Pronouns: he/him 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amaous)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kindsew//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Z_amaous)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/22997393/amaous)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaous)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amaous&show_icons=true)  

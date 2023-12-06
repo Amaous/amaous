@@ -1,4 +1,4 @@
-<h1 align="left">ሀይ 👋, my name is Kindsew </h1>
+<h1 align="left">ሀይ 👋, my name is Kindsew 👨🏻‍💻 </h1>
 <h3 align="left">Curious Software engineer | empathic customer service officer</h3>
 
 <img align="right" alt="animated image" width="400" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif">

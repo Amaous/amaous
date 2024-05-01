@@ -1,5 +1,5 @@
 <h1 align="left">ሀይ 👋, my name is Kindsew 👨🏻‍💻 </h1>
-<h3 align="left">Curious Software engineer | empathic customer service officer</h3>
+<h3 align="left">Curious Software engineer | An empathic customer service officer</h3>
 
 <img align="right" alt="animated image" width="400" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif">
 <h2 align="left"> About me </h2>
@@ -9,7 +9,7 @@ I'm Kindsew from Ethiopia, a determined Software engineer, currently pursuing a 
 
 - 🌱 I’m currently learning **Software Engineering at Alx_africa while working full-time as a Customer service officer at a leading private bank in my country**
 
-- 📫 How to reach me **kingminas628@gmail.com**
+- 📫 Want to reach me? Here-> **kingminas628@gmail.com**
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">

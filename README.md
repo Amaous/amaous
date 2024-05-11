@@ -3,13 +3,13 @@
 
 <img align="right" alt="animated image" width="400" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif">
 <h2 align="left"> About me </h2>
-I'm Kindsew from Ethiopia, a determined Software engineer, currently pursuing a software engineering @Alx_Africa. I'm Keen and open to learning tech and continuously improving myself to advance my career and skills in software engineering and web development.
+I'm Kindsew from Ethiopia, a determined Software engineer, currently pursuing a software engineering @Alx_Africa. I'm Keen and committed to life long learning believe in continuous improvement to shoft my career and advance my skills in software engineering and web development.
 
 - 🔭 I’m currently working on [Building Simple shell in C](https://github.com/Amaous/simple_shell)
 
 - 🌱 I’m currently learning **Software Engineering at Alx_africa while working full-time as a Customer service officer at a leading private bank in my country**
 
-- 📫 Want to reach me? Here-> **kingminas628@gmail.com**
+- 📫 Want to reach me? reach out me Here-> **kingminas628@gmail.com**
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">

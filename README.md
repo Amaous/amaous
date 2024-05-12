@@ -4,11 +4,11 @@
 <img align="right" alt="animated image" width="400" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif">
 <h2 align="left"> About me </h2>
 I’m Kindsew from Ethiopia, a determined Software Engineer, currently pursuing software engineering at Alx_Africa. I’m keen on and committed to lifelong learning, believing in continuous improvement to shift my career and advance my skills in software engineering and web development.
-- 🔭 I’m currently working on [Building Simple shell in C](https://github.com/Amaous/simple_shell)
+🔭 I’m currently working on [Building Simple shell in C](https://github.com/Amaous/simple_shell)
 
 - 🌱 I’m currently learning **Software Engineering at Alx_africa while working full-time as a Customer service officer at a leading private bank in my country**
 
-- 📫 Wanna reach me? Here-> **kingminas628@gmail.com**
+📫 Wanna reach me? Here-> **kingminas628@gmail.com**
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">

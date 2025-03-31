@@ -1,14 +1,14 @@
 <h1 align="left">ሀይ 👋, my name is Kindsew 👨🏻‍💻 </h1>
-<h3 align="left">Curious Software engineer | An empathic customer service officer</h3>
+<h3 align="left">Customer Service Officer | Data science Enthusiastic | AI & GitHub Foundation certifiedr</h3>
 
 <img align="right" alt="animated image" width="400" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif">
 <h2 align="left"> About me </h2>
-I’m Kindsew from Ethiopia, a determined Software Engineer, currently pursuing software engineering at Alx_Africa. I’m keen on and committed to lifelong learning, believing in continuous improvement to shift my career and advance my skills in software engineering and web development.
+I’m Kindsew, a customer service officer from Ethiopia,  currently pursuing data Science at Alx_Africa. Driven by a commitment to lifelong learning and continuous improvement, I'm focused on developing the skills necessary to transition into Data Science and AI.
 
 
-_ 🔭 I’m currently working on [Building Simple shell in C](https://github.com/Amaous/simple_shell)
+_ 🔭 I’m currently working on [Professional Foundations _The Eight Meta Skills](https://ehub.alxafrica.com/)
 
-- 🌱 I’m currently learning **Software Engineering at Alx_africa while working full-time as a Customer service officer at a leading private bank in my country**
+- 🌱 Currently, I'm pursuing  **Data Science alongside my full-time role as a Customer service officer at a leading private bank in Ethiopia**
 
 📫 Wanna reach me? Here-> **kingminas628@gmail.com**
 
